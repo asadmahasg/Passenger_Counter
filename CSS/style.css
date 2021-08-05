@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background: url("../Images/image-1.jpg");
+}
