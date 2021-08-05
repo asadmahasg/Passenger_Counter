@@ -8,5 +8,14 @@ body{
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
-    background: url("../Images/image-1.jpg");
+    background: url("../Images/image-2.jpg");
+}
+.container{
+    width: 300px;
+    height: 300px;
+    background: white;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    outline: 20px;
 }
